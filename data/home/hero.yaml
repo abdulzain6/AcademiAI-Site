@@ -1,0 +1,14 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Elevate Learning with **Academi.AI**"
+  text: "Transform your study experience with our advanced AI-powered assistant. Tailored learning, efficient study, and enhanced understanding await you."
+
+  buttonPrimary:
+    label: "Explore Features"
+    url: "/features.html"
+
+  buttonSecondary:
+    label: "Download App"
+    url: "https://play.google.com/store/apps/details?id=com.ainnovate.academiaii&hl=en&gl=US"

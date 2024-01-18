@@ -1,0 +1,28 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our Main Services"
+  text: "Explore the range of services we offer to enhance your experience with Academi.AI. From personalized training sessions to comprehensive support, we're here to ensure you make the most out of our AI-powered study assistant."
+
+  cards:
+    - image: "images/services-customization.png"
+      title: "App Customization"
+      text: "Tailor Academi.AI to fit your learning style and preferences with our app customization service. Get a personalized learning environment that suits your needs."
+      button:
+        label: "Learn more"
+        url: "/features.html"
+
+    - image: "images/services-training.png"
+      title: "Personalized Training"
+      text: "Maximize your productivity with Academi.AI by signing up for our training programs. Learn how to leverage all the features for optimal learning outcomes."
+      button:
+        label: "Learn more"
+        url: "/features.html"
+
+    - image: "images/services-support.png"
+      title: "Continuous Support"
+      text: "Our dedicated support team is available to assist you with any questions or challenges you might encounter. We're committed to providing you with the help you need, when you need it."
+      button:
+        label: "Learn more"
+        url: "/features.html"

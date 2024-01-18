@@ -1,0 +1,84 @@
+baseURL: "https://academiai.org/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Academi.AI"
+
+summaryLength: 20
+
+params:
+  title: "Academi.AI: AI Study Assistant"
+  description: "Academi.AI is your AI-powered study companion, revolutionizing the way you learn, study, and absorb information. Embrace the future of education with intelligent, personalized learning experiences."
+  images:
+    - "logo.png"
+
+  logo: "logo.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    instagram: "https://www.instagram.com/academiaireal/"
+    twitter: "https://twitter.com/AcademiAI141241"
+
+  location:
+    - "Gohdpur Sialkot, Punjab Pakistan 51040"
+
+  contact:
+    - "info@academiai.org"
+
+  copyright: "© 2023 AInnovate All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/index.html"
+      weight: 1
+
+    - name: "About Us"
+      url: "/about.html"
+      weight: 2
+
+    - name: "App Features"
+      url: "/features.html"
+      weight: 3
+
+    - name: "Contact Us"
+      url: "/contact-us.html"
+      weight: 4
+
+  buttons:
+    - name: "Try Our App"
+      url: "https://play.google.com/store/apps/details?id=com.ainnovate.academiaii&hl=en&gl=US"
+      weight: 1
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/index.html"
+      weight: 1
+
+    - name: "About Us"
+      url: "/about.html"
+      weight: 2
+
+    - name: "App Features"
+      url: "/features.html"
+      weight: 3
+
+    - name: "Try Our App"
+      url: "https://play.google.com/store/apps/details?id=com.ainnovate.academiaii&hl=en&gl=US"
+      weight: 4
+
+    - name: "Contact Us"
+      url: "/contact-us.html"
+      weight: 6
+
+taxonomies:
+  series: "series"
+  tags: "tags"
+
+uglyURLs: true
+

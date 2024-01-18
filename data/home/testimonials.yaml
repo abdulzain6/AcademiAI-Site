@@ -1,0 +1,34 @@
+enabled: true
+id: "testimonials"
+
+content:
+  title: "Testimonials"
+
+  featured:
+    text: "So happy 😊 with the app - it's a game-changer in education! - Umair Shaikh"
+    client: "Umair Shaikh"
+
+  list:
+    - text: "Very nice app, so helpful in my studies. - FANTOM GAMING"
+      client: "FANTOM GAMING"
+      image: "images/testimonials-featured.png"
+
+    - text: "Very helpful app, we can find whatever we need and it's given with PDF. - Jennifer Khawbung"
+      client: "Jennifer Khawbung"
+      image: "images/testimonials-featured.png"
+
+    - text: "Amazing app, I love it. - Aahhmmeedd Yyuuyyaa"
+      client: "Aahhmmeedd Yyuuyyaa"
+      image: "images/testimonials-featured.png"
+
+    - text: "Please tell me how to add files to the app. No option available. Edit: Yeah, I can add files now. - Aniketh"
+      client: "Aniketh"
+      image: "images/testimonials-featured.png"
+
+    - text: "Well-designed and user-friendly. - Adam Smith"
+      client: "Adam Smith"
+      image: "images/testimonials-featured.png"
+
+    - text: "So fast to answer. An amazing app 🎁🎁🎁 - Neha Gosai"
+      client: "Neha Gosai"
+      image: "images/testimonials-featured.png"

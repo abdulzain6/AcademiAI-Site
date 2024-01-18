@@ -1,0 +1,39 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ai-tutoring.png"
+    pretitle: "Feature Highlight"
+    title: "AI-Powered Tutoring"
+    text: "Academi.AI's chat tutor uses cutting-edge AI to provide personalized learning experiences, adapting to each user's unique educational needs."
+
+    buttons: 
+      - label: "Learn More"
+        url: "/features.html"
+
+      - label: "Download App"
+        url: "https://play.google.com/store/apps/details?id=com.ainnovate.academiaii&hl=en&gl=US"
+
+  - image: "images/portfolio-quiz-generator.png"
+    pretitle: "Feature Highlight"
+    title: "Interactive Quiz Generator"
+    text: "Our AI-driven quiz generator creates dynamic quizzes tailored to the user's study material, offering an engaging way to prepare for exams."
+
+    buttons: 
+      - label: "Learn More"
+        url: "/features.html"
+
+      - label: "Download App"
+        url: "https://play.google.com/store/apps/details?id=com.ainnovate.academiaii&hl=en&gl=US"
+
+  - image: "images/portfolio-flashcards.png"
+    pretitle: "Feature Highlight"
+    title: "Efficient Flashcard Maker"
+    text: "The flashcard maker feature allows users to quickly convert their notes into digital flashcards, enhancing study sessions and information retention."
+
+    buttons: 
+      - label: "Learn More"
+        url: "/features.html"
+
+      - label: "Download App"
+        url: "https://play.google.com/store/apps/details?id=com.ainnovate.academiaii&hl=en&gl=US"

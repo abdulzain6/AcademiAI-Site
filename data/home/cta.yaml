@@ -1,0 +1,9 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Elevate Your Learning with Academi.AI"
+  image: "images/logo.png"
+  button:
+    label: "Download Now"
+    url: "https://play.google.com/store/apps/details?id=com.ainnovate.academiaii&hl=en&gl=US"
