@@ -76,6 +76,14 @@ menus:
       url: "/contact-us.html"
       weight: 6
 
+    - name: "Privacy Policy"
+      url: "/privacy.html"
+      weight: 7
+
+    - name: "Refund Policy"
+      url: "/refund-policy.html"
+      weight: 8
+
 taxonomies:
   series: "series"
   tags: "tags"
